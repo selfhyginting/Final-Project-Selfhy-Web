@@ -18,3 +18,36 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 CucumberKW.runFeatureFile('Include/features/WP-11 Selfhy - TC Register Website.feature')
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
+
+WebUI.click(findTestObject('Object Repository/Register/Page_Kotakoki  Welcome to my Website/span_Register Now'))
+
+WebUI.waitForElementPresent(findTestObject('Register/Page_Register Now  Kotakoki/h1_Register Now'), 0)
+
+WebUI.setText(findTestObject('Object Repository/Register/Page_Register Now  Kotakoki/input_Username_user_login-297'), 'selfhyginting')
+
+WebUI.setText(findTestObject('Object Repository/Register/Page_Register Now  Kotakoki/input_E-mail Address_user_email-297'), 
+    'selfhy.ginting@bfi.co.id')
+
+WebUI.setText(findTestObject('Object Repository/Register/Page_Register Now  Kotakoki/input_Phone Number_phone_number-297'), 
+    '081231231233')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Register/Page_Register Now  Kotakoki/input_Password_user_password-297'), 
+    'RvshYMyF6EzbJOyO9qmYGA==')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Register/Page_Register Now  Kotakoki/input_Confirm Password_confirm_user_password-297'), 
+    'RvshYMyF6EzbJOyO9qmYGA==')
+
+WebUI.setText(findTestObject('Object Repository/Register/Page_Register Now  Kotakoki/input_Address_Relative_adress-297'), 
+    'Jalan Setiabudi')
+
+WebUI.click(findTestObject('Object Repository/Register/Page_Register Now  Kotakoki/input_Only fill in if you are not human_um-_fc91b5'))
+
+WebUI.verifyElementNotPresent(findTestObject('Object Repository/Register/Page_Register Now  Kotakoki/p_An error has been encountered. Probably p_c87ac1'), 
+    0)
+
+WebUI.closeBrowser()
+

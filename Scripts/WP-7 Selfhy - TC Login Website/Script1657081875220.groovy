@@ -18,3 +18,24 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 CucumberKW.runFeatureFile('Include/features/WP-7 Selfhy - TC Login Website.feature')
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
+
+WebUI.click(findTestObject('Object Repository/Login/Page_Kotakoki  Welcome to my Website/span_Login'))
+
+WebUI.waitForElementPresent(findTestObject('Login/Page_Login  Kotakoki/h1_Login'), 0)
+
+WebUI.setText(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Username or E-mail_username-298'), 'selfhyginting')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Password_user_password-298'), 
+    'RvshYMyF6EzbJOyO9qmYGA==')
+
+WebUI.click(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Keep me signed in_um-submit-btn'))
+
+WebUI.verifyElementNotPresent(findTestObject('Object Repository/Login/Page_Login  Kotakoki/p_An error has been encountered. Probably p_c87ac1'), 
+    0)
+
+WebUI.closeBrowser()
+
