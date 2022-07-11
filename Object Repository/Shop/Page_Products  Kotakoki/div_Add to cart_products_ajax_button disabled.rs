@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add to cart_products_ajax_button disabled</name>
+   <tag></tag>
+   <elementGuidId>8435541f-6219-490d-8570-cdd67eea824f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sticky_bottom_anchor']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.products_ajax_button.disabled</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5a651c21-daf9-4c18-a54c-7667b79176f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>products_ajax_button disabled</value>
+      <webElementGuid>ac25b5a8-50ac-4712-b944-bdf6f26fd393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-processing</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>0ea0389d-50cc-4095-9bb7-92078f472037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sticky_bottom_anchor&quot;)/div[@class=&quot;products_ajax_button disabled&quot;]</value>
+      <webElementGuid>422d4b5a-1298-49f1-b30c-c52a075280df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sticky_bottom_anchor']/div[2]</value>
+      <webElementGuid>acf5ac55-8dd0-4022-af32-ce1b5faad033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]</value>
+      <webElementGuid>4619978e-2f7e-4823-abd0-e1aad0fc6645</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
