@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SHOP NOW_swiper-pagination-bullet swiper-pagination-bullet-active</name>
+   <tag></tag>
+   <elementGuidId>1169c584-795a-4463-8dca-1fb51bad22be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-152']/div/div/div/div/div/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.swiper-pagination-bullet.swiper-pagination-bullet-active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>876cae9f-8e6d-4c9b-a95b-9fb1ccb653d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swiper-pagination-bullet swiper-pagination-bullet-active</value>
+      <webElementGuid>1e42f5ed-28ad-4ad5-b28c-80018aa35e8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>1849c63b-e174-4cbe-9713-988d25e06007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e0fd9f56-1df9-4b1e-92ff-748b9a3bf94a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Go to slide 1</value>
+      <webElementGuid>bac66bda-26cb-430f-9c03-340ebc3ae23a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-152&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_custom_1653656722181 vc_row-no-padding wpb_start_animation animated&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;shortcode_getbowtied_slider swiper-container swiper-62cb64416a4f9 swiper-container-initialized swiper-container-horizontal&quot;]/div[@class=&quot;quickview-pagination shortcode-slider-pagination swiper-pagination-clickable swiper-pagination-bullets&quot;]/span[@class=&quot;swiper-pagination-bullet swiper-pagination-bullet-active&quot;]</value>
+      <webElementGuid>7e5df406-5f06-4f47-a1e6-acbc0f54ce86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-152']/div/div/div/div/div/div/div[2]/span</value>
+      <webElementGuid>991f7d5f-59f6-4b0a-a959-7a0abade6e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/span</value>
+      <webElementGuid>50533285-ca33-48f9-8ec7-b623cb71c59e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

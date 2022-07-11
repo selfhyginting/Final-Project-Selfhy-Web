@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Copyright  2022. Powered by WS Lab_p_37a027</name>
+   <tag></tag>
+   <elementGuidId>8345b5bb-0eb9-48b0-bddb-017e155ad419</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.pswp__button.pswp__button--close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b7ab83e1-a02b-4c5f-8968-d6805e450df4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pswp__button pswp__button--close</value>
+      <webElementGuid>9d24a984-85c2-43ad-a9f6-2519303e5067</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Close (Esc)</value>
+      <webElementGuid>ffa0b676-5df6-4fb8-a721-18030899d263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js_active vc_desktop vc_transform vc_transform&quot;]/body[@class=&quot;product-template-default single single-product postid-17 wp-embed-responsive theme-the-hanger woocommerce woocommerce-page woocommerce-js wpb-js-composer js-comp-ver-6.7.0 vc_responsive site-main-font header-layout-full content-layout-full  footer-layout-boxed&quot;]/div[@class=&quot;pswp pswp--supports-fs pswp--open pswp--animate_opacity pswp--notouch pswp--css_animation pswp--svg pswp--visible pswp--animated-in pswp--has_mouse&quot;]/div[@class=&quot;pswp__scroll-wrap&quot;]/div[@class=&quot;pswp__ui pswp__ui--one-slide pswp__ui--fit&quot;]/div[@class=&quot;pswp__top-bar&quot;]/button[@class=&quot;pswp__button pswp__button--close&quot;]</value>
+      <webElementGuid>74bf3f57-20ce-45cd-bb01-16c8573c52c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/button</value>
+      <webElementGuid>8f1f16b2-bfd6-4f64-ba8d-e75e20fdefea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

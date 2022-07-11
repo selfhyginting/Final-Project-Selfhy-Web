@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SHOP NOW_quickview-pagination shortcode-slider-pagination swiper-pagination-clickable swiper-pagination-bullets</name>
+   <tag></tag>
+   <elementGuidId>ffca3f53-832e-44dc-8870-5603f9f6489a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-152']/div/div/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.quickview-pagination.shortcode-slider-pagination.swiper-pagination-clickable.swiper-pagination-bullets</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e136e64d-cc9b-440a-956a-998084c0d6d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quickview-pagination shortcode-slider-pagination swiper-pagination-clickable swiper-pagination-bullets</value>
+      <webElementGuid>616a24a1-806a-4be1-8876-9e02c1a6acb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-152&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_custom_1653656722181 vc_row-no-padding wpb_start_animation animated&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;shortcode_getbowtied_slider swiper-container swiper-62cb64416a4f9 swiper-container-initialized swiper-container-horizontal&quot;]/div[@class=&quot;quickview-pagination shortcode-slider-pagination swiper-pagination-clickable swiper-pagination-bullets&quot;]</value>
+      <webElementGuid>f2f34611-4301-465f-a5d7-572b2bf43596</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-152']/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>220a336b-d4fa-4e02-81d8-0f6de05c3f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHOP NOW'])[2]/following::div[1]</value>
+      <webElementGuid>f169845f-c8de-4a1c-b147-8749a9e4004c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OUR STORY'])[1]/following::div[7]</value>
+      <webElementGuid>bd9ffe92-2188-47fe-90c4-67ae986581b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Products'])[1]/preceding::div[2]</value>
+      <webElementGuid>a55f53f4-b424-49ec-81a8-d4865710e4db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New!'])[1]/preceding::div[4]</value>
+      <webElementGuid>9834da01-a122-45cd-a668-3e3784752010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>fed46b69-0364-4e39-bbea-3b82d4fa95b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

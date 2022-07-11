@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Rp15.000</name>
+   <tag></tag>
+   <elementGuidId>4b1bc497-f484-4014-8779-ca39859b603d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-53']/div/div/div[2]/div/table/tbody/tr[2]/td/strong/span/bdi</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong > span.woocommerce-Price-amount.amount > bdi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>ce6cf599-bffa-4cfd-8be7-fea9f32c2086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp15.000</value>
+      <webElementGuid>dee0a626-7138-4903-a3b1-9ce42f018034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-53&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;cart-collaterals&quot;]/div[@class=&quot;cart_totals&quot;]/table[@class=&quot;shop_table shop_table_responsive&quot;]/tbody[1]/tr[@class=&quot;order-total&quot;]/td[1]/strong[1]/span[@class=&quot;woocommerce-Price-amount amount&quot;]/bdi[1]</value>
+      <webElementGuid>7ecbd651-7686-40cb-856f-3a84c6d5f955</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-53']/div/div/div[2]/div/table/tbody/tr[2]/td/strong/span/bdi</value>
+      <webElementGuid>3f639b03-9420-4fe0-ae1a-b2fb85127729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::bdi[1]</value>
+      <webElementGuid>6d03e14c-3538-4e7f-a19d-3fd2e1d934d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[6]/following::bdi[1]</value>
+      <webElementGuid>43e1c185-16d8-4910-bcee-b4719588d239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proceed to checkout'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>b1ea369f-9243-46a9-8f9a-6bfc1e458aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong/span/bdi</value>
+      <webElementGuid>ea1fd411-8a12-449c-83c5-1db30e25bebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[(text() = 'Rp15.000' or . = 'Rp15.000')]</value>
+      <webElementGuid>d0db807a-50a7-465a-a147-d5b459547c14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
