@@ -21,7 +21,7 @@ CucumberKW.runFeatureFile('Include/features/WP-15 Selfhy - TC Newsletter Website
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
+WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/Newsletter/Page_Kotakoki  Welcome to my Website/strong_Newsletter'), 
     0)

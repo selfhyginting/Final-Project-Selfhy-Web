@@ -21,7 +21,7 @@ CucumberKW.runFeatureFile('Include/features/WP-14 Selfhy - TC Shop Website.featu
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
+WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.click(findTestObject('Object Repository/Shop/Page_Kotakoki  Welcome to my Website/span_Shop'))
 

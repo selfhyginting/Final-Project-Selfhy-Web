@@ -21,7 +21,7 @@ CucumberKW.runFeatureFile('Include/features/WP-11 Selfhy - TC Register Website.f
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
+WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.click(findTestObject('Object Repository/Register/Page_Kotakoki  Welcome to my Website/span_Register Now'))
 

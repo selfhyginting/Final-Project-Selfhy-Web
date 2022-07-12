@@ -21,7 +21,7 @@ CucumberKW.runFeatureFile('Include/features/WP-16 Selfhy - TC Search Website.fea
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
+WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.click(findTestObject('Object Repository/Search/Page_Search Results for   Kotakoki/button_Search Suggestions_header_search_button'))
 

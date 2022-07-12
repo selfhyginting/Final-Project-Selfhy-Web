@@ -21,7 +21,7 @@ CucumberKW.runFeatureFile('Include/features/WP-7 Selfhy - TC Login Website.featu
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
+WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Kotakoki  Welcome to my Website/span_Login'))
 
