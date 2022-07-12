@@ -27,10 +27,10 @@ WebUI.click(findTestObject('Object Repository/Login/Page_Kotakoki  Welcome to my
 
 WebUI.waitForElementPresent(findTestObject('Login/Page_Login  Kotakoki/h1_Login'), 0)
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Username or E-mail_username-298'), 'selfhyginting')
+WebUI.setText(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Username or E-mail_username-298'), username)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Password_user_password-298'), 
-    'RvshYMyF6EzbJOyO9qmYGA==')
+    password)
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Keep me signed in_um-submit-btn'))
 

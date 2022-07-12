@@ -16,4 +16,39 @@ Description: Test Case for Login Schema</description>
    </integratedEntity>
    <comment></comment>
    <testCaseGuid>1553a7bc-5e74-4019-97bf-0221560a4100</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c4f5dec5-86c3-4557-b7ef-3fccbd4bf880</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Login_Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>c4f5dec5-86c3-4557-b7ef-3fccbd4bf880</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>dc8da39f-5d56-45f4-bdfd-644938100954</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>c4f5dec5-86c3-4557-b7ef-3fccbd4bf880</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>db08e400-fd17-4eb9-897d-32d563655e99</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dc8da39f-5d56-45f4-bdfd-644938100954</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>db08e400-fd17-4eb9-897d-32d563655e99</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
 </TestCaseEntity>
