@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Shop</name>
+   <name>label_DANA</name>
    <tag></tag>
-   <elementGuidId>dcc73ad9-409b-454c-b0dc-236c47396fa0</elementGuidId>
+   <elementGuidId>5f74a764-e36b-4ead-a4bd-a6793667d413</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='menu-item-76']/a/span</value>
+         <value>//div[@id='payment']/ul/li[12]/label</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#menu-item-76 > a > span</value>
+         <value>li.wc_payment_method.payment_method_xendit_dana > label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,98 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>fef295d2-0b35-4f82-8c5c-ee1c67e4e9fa</webElementGuid>
+      <value>label</value>
+      <webElementGuid>ce4c7161-a40f-428f-b2d6-bbdb6abea108</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>payment_method_xendit_dana</value>
+      <webElementGuid>065b3296-e252-4f38-bdd2-e670216486f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Shop</value>
-      <webElementGuid>a77fa8bf-2171-44a8-8c01-676122ee1b4c</webElementGuid>
+      <value>
+		DANA 	</value>
+      <webElementGuid>33002798-faac-4110-a638-cdfc26f2b5f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;menu-item-76&quot;)/a[1]/span[1]</value>
-      <webElementGuid>dce39e11-9a2b-4658-8089-893c9df1699b</webElementGuid>
+      <value>id(&quot;payment&quot;)/ul[@class=&quot;wc_payment_methods payment_methods methods&quot;]/li[@class=&quot;wc_payment_method payment_method_xendit_dana&quot;]/label[1]</value>
+      <webElementGuid>115ab200-72e1-46f9-9206-3404fd8363b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='menu-item-76']/a/span</value>
-      <webElementGuid>80cc3fce-5db6-4847-8d9b-8436c22e4757</webElementGuid>
+      <value>//div[@id='payment']/ul/li[12]/label</value>
+      <webElementGuid>6292aeff-0e01-43df-8ce4-8362cc116a27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[1]</value>
-      <webElementGuid>a36e9c72-d12b-44a7-8e2c-b0bb7e1b8aad</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST MODE'])[11]/following::label[1]</value>
+      <webElementGuid>dfd697a5-b0c5-452f-84f8-27bab2750524</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/following::span[2]</value>
-      <webElementGuid>8e187a7c-8cef-41f9-932b-952a279ba3c6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OVO'])[1]/following::label[1]</value>
+      <webElementGuid>3d4a4a61-8ef4-48f0-a7c0-d66f8dc079b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::span[1]</value>
-      <webElementGuid>d75ebb74-ac88-4ec6-babd-60618cdae028</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xendit'])[11]/preceding::label[1]</value>
+      <webElementGuid>cb7da481-f19a-4223-88ad-094faa1fbf5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register Now'])[1]/preceding::span[2]</value>
-      <webElementGuid>63676f54-0878-4f6d-9d5c-7319fbdb0a1c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST MODE'])[12]/preceding::label[1]</value>
+      <webElementGuid>12b1272b-a317-4f4c-afb8-6b47515c93dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Shop']/parent::*</value>
-      <webElementGuid>ca516c31-a8e2-4fac-8058-eefc6cdffba7</webElementGuid>
+      <value>//*/text()[normalize-space(.)='DANA']/parent::*</value>
+      <webElementGuid>4f660e7c-2e3b-44e7-8e2b-13e539553f54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/a/span</value>
-      <webElementGuid>e4c450af-418d-406b-97d9-00d7948851f9</webElementGuid>
+      <value>//li[12]/label</value>
+      <webElementGuid>825d7d0d-46e3-480b-999b-985ca9bfc8cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Shop' or . = 'Shop')]</value>
-      <webElementGuid>f6f56aa0-e9bb-4413-b8e3-05f8d771bef6</webElementGuid>
+      <value>//label[(text() = '
+		DANA 	' or . = '
+		DANA 	')]</value>
+      <webElementGuid>67c52b90-601c-4ad7-9902-405e0bd7ea85</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

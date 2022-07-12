@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Shop</name>
+   <name>label_UangMe</name>
    <tag></tag>
-   <elementGuidId>dcc73ad9-409b-454c-b0dc-236c47396fa0</elementGuidId>
+   <elementGuidId>66c4b595-0560-44b1-a552-cf0a01bf034f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='menu-item-76']/a/span</value>
+         <value>//div[@id='payment']/ul/li[17]/label</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#menu-item-76 > a > span</value>
+         <value>li.wc_payment_method.payment_method_xendit_uangme > label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,98 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>fef295d2-0b35-4f82-8c5c-ee1c67e4e9fa</webElementGuid>
+      <value>label</value>
+      <webElementGuid>b99eec2d-256b-4a42-9341-026a215b6c19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>payment_method_xendit_uangme</value>
+      <webElementGuid>ccc1bd3e-c68a-4ce3-9180-284125d8d2df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Shop</value>
-      <webElementGuid>a77fa8bf-2171-44a8-8c01-676122ee1b4c</webElementGuid>
+      <value>
+		UangMe 	</value>
+      <webElementGuid>6e4f79a1-a6c3-4403-a9d3-a53bf31dca77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;menu-item-76&quot;)/a[1]/span[1]</value>
-      <webElementGuid>dce39e11-9a2b-4658-8089-893c9df1699b</webElementGuid>
+      <value>id(&quot;payment&quot;)/ul[@class=&quot;wc_payment_methods payment_methods methods&quot;]/li[@class=&quot;wc_payment_method payment_method_xendit_uangme&quot;]/label[1]</value>
+      <webElementGuid>b8a888ef-561f-4926-812f-26a2d91812bf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='menu-item-76']/a/span</value>
-      <webElementGuid>80cc3fce-5db6-4847-8d9b-8436c22e4757</webElementGuid>
+      <value>//div[@id='payment']/ul/li[17]/label</value>
+      <webElementGuid>291aac43-7889-482e-bd42-4c26d225c68d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[1]</value>
-      <webElementGuid>a36e9c72-d12b-44a7-8e2c-b0bb7e1b8aad</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST MODE'])[16]/following::label[1]</value>
+      <webElementGuid>3c3f1fbe-0ed1-466a-8022-fa3530c07593</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/following::span[2]</value>
-      <webElementGuid>8e187a7c-8cef-41f9-932b-952a279ba3c6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xendit'])[15]/following::label[1]</value>
+      <webElementGuid>3a72d955-3d94-4d34-b422-706c82acaf88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::span[1]</value>
-      <webElementGuid>d75ebb74-ac88-4ec6-babd-60618cdae028</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xendit'])[16]/preceding::label[1]</value>
+      <webElementGuid>b20ce253-2d69-460a-836f-2479548319a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register Now'])[1]/preceding::span[2]</value>
-      <webElementGuid>63676f54-0878-4f6d-9d5c-7319fbdb0a1c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST MODE'])[17]/preceding::label[1]</value>
+      <webElementGuid>ec63ce5a-3ec0-4ed4-885a-e06504667335</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Shop']/parent::*</value>
-      <webElementGuid>ca516c31-a8e2-4fac-8058-eefc6cdffba7</webElementGuid>
+      <value>//*/text()[normalize-space(.)='UangMe']/parent::*</value>
+      <webElementGuid>d9a98f31-d613-4e63-a3a7-7267e89b2c26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/a/span</value>
-      <webElementGuid>e4c450af-418d-406b-97d9-00d7948851f9</webElementGuid>
+      <value>//li[17]/label</value>
+      <webElementGuid>8b76296b-cc93-425b-ab34-f804e413a043</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Shop' or . = 'Shop')]</value>
-      <webElementGuid>f6f56aa0-e9bb-4413-b8e3-05f8d771bef6</webElementGuid>
+      <value>//label[(text() = '
+		UangMe 	' or . = '
+		UangMe 	')]</value>
+      <webElementGuid>a4e7c91e-71ab-4e96-8730-f8a943489618</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

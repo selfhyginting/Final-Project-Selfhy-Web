@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Shop</name>
+   <name>label_Bank Transfer - BSI</name>
    <tag></tag>
-   <elementGuidId>dcc73ad9-409b-454c-b0dc-236c47396fa0</elementGuidId>
+   <elementGuidId>8044c5bd-63db-42a0-b969-10333c86ddae</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='menu-item-76']/a/span</value>
+         <value>//div[@id='payment']/ul/li[4]/label</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#menu-item-76 > a > span</value>
+         <value>li.wc_payment_method.payment_method_xendit_bsiva > label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,98 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>fef295d2-0b35-4f82-8c5c-ee1c67e4e9fa</webElementGuid>
+      <value>label</value>
+      <webElementGuid>f163532c-3a6a-46f4-a403-236cc90e9b77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>payment_method_xendit_bsiva</value>
+      <webElementGuid>b2f68a4e-ce03-48f9-9cdb-aff4e1be6db6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Shop</value>
-      <webElementGuid>a77fa8bf-2171-44a8-8c01-676122ee1b4c</webElementGuid>
+      <value>
+		Bank Transfer - BSI 	</value>
+      <webElementGuid>60aadf35-3979-47ea-86d4-a4aed514c936</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;menu-item-76&quot;)/a[1]/span[1]</value>
-      <webElementGuid>dce39e11-9a2b-4658-8089-893c9df1699b</webElementGuid>
+      <value>id(&quot;payment&quot;)/ul[@class=&quot;wc_payment_methods payment_methods methods&quot;]/li[@class=&quot;wc_payment_method payment_method_xendit_bsiva&quot;]/label[1]</value>
+      <webElementGuid>9a1f0d20-4d4b-45ae-91a9-78a8a09542bd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='menu-item-76']/a/span</value>
-      <webElementGuid>80cc3fce-5db6-4847-8d9b-8436c22e4757</webElementGuid>
+      <value>//div[@id='payment']/ul/li[4]/label</value>
+      <webElementGuid>8ee6f6d4-c81e-4922-854d-d213cd6b992a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[1]</value>
-      <webElementGuid>a36e9c72-d12b-44a7-8e2c-b0bb7e1b8aad</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST MODE'])[3]/following::label[1]</value>
+      <webElementGuid>90d51c66-6a5f-49d8-a791-109fd8896748</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/following::span[2]</value>
-      <webElementGuid>8e187a7c-8cef-41f9-932b-952a279ba3c6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xendit'])[3]/following::label[1]</value>
+      <webElementGuid>86ffba3f-f04c-40ea-9b98-eb1abb621edd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::span[1]</value>
-      <webElementGuid>d75ebb74-ac88-4ec6-babd-60618cdae028</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xendit'])[4]/preceding::label[1]</value>
+      <webElementGuid>8aa95538-ce51-4e5c-bf90-a569d7813794</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register Now'])[1]/preceding::span[2]</value>
-      <webElementGuid>63676f54-0878-4f6d-9d5c-7319fbdb0a1c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST MODE'])[4]/preceding::label[1]</value>
+      <webElementGuid>5e41bcdb-3195-4688-99ef-88ed5de9c527</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Shop']/parent::*</value>
-      <webElementGuid>ca516c31-a8e2-4fac-8058-eefc6cdffba7</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Bank Transfer - BSI']/parent::*</value>
+      <webElementGuid>f606f99e-7859-44f6-837e-db2b9286c700</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/a/span</value>
-      <webElementGuid>e4c450af-418d-406b-97d9-00d7948851f9</webElementGuid>
+      <value>//li[4]/label</value>
+      <webElementGuid>aff05b25-1163-4729-97c6-f0ab7a7d7c48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Shop' or . = 'Shop')]</value>
-      <webElementGuid>f6f56aa0-e9bb-4413-b8e3-05f8d771bef6</webElementGuid>
+      <value>//label[(text() = '
+		Bank Transfer - BSI 	' or . = '
+		Bank Transfer - BSI 	')]</value>
+      <webElementGuid>ccbe1680-7cb0-4f64-b367-e2f114b96910</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Transfer Bank3</name>
+   <tag></tag>
+   <elementGuidId>1a77a56b-e03a-485a-be43-57347ca3ea0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payment-methods']/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>65783fda-f090-4c2d-b16b-fd37d8fd8101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-6 box-border appearance-none cursor-pointer focus:outline-none flex items-center justify-between text-sm sm:text-base border-t-0</value>
+      <webElementGuid>9facea14-cab9-4e3b-9493-c0df0ebae92c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>accordion</value>
+      <webElementGuid>bebf5396-12fe-4d29-a60d-151ed4e407ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transfer Bank+3</value>
+      <webElementGuid>c347a8f2-56ec-447d-aae8-5463592537b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment-methods&quot;)/div[@class=&quot;tab w-full overflow-hidden border border-b-0 border-gray-100 rounded&quot;]/div[@class=&quot;flex flex-col border-b border-gray-100 bg-snow&quot;]/button[@class=&quot;p-6 box-border appearance-none cursor-pointer focus:outline-none flex items-center justify-between text-sm sm:text-base border-t-0&quot;]</value>
+      <webElementGuid>10040360-c35d-4edd-b5ca-d2b4b1ca77a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment-methods']/div/div/button</value>
+      <webElementGuid>62a1353c-2a2c-4e46-b305-b180f9442182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 45.000'])[1]/following::button[1]</value>
+      <webElementGuid>37315d47-235e-4f0a-b1c9-4338d6bbd93d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayar sebelum 13 Juli 2022 10:23am'])[1]/following::button[1]</value>
+      <webElementGuid>d0e7f986-963b-4c35-840d-a61a36b28865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Lain'])[1]/preceding::button[1]</value>
+      <webElementGuid>a80a93b5-712c-4a3c-8aa7-5edecdd11045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='atau Pindai QR Code untuk membayar'])[1]/preceding::button[2]</value>
+      <webElementGuid>1b9474a3-e01e-47b0-b469-645157c2503b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>aa19c1b4-854f-4610-a260-517741f84af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Transfer Bank+3' or . = 'Transfer Bank+3')]</value>
+      <webElementGuid>d76fe144-43ad-44c7-a5bf-ca523d5939e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

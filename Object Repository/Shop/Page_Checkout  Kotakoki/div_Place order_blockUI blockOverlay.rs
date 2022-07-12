@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Place order_blockUI blockOverlay</name>
+   <tag></tag>
+   <elementGuidId>7a11b74d-b5e6-4af2-a33f-b6adec37381a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payment']/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#payment > div.blockUI.blockOverlay</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>89b27181-14d8-41ed-b1dd-868b7a09ce19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blockUI blockOverlay</value>
+      <webElementGuid>73b6fb36-4c0d-4ee1-8197-d407cb06f8b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment&quot;)/div[@class=&quot;blockUI blockOverlay&quot;]</value>
+      <webElementGuid>c1f4ef48-607a-49ac-bc4c-27e3fd90f28f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment']/div[3]</value>
+      <webElementGuid>d7f17c82-dcd1-450a-82cf-f98adff1a8c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[2]/div[3]/div/div[3]</value>
+      <webElementGuid>5fdde2bb-2ba4-4489-abb8-79b45c82ca3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

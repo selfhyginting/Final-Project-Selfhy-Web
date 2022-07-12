@@ -29,12 +29,15 @@ WebUI.callTestCase(findTestCase('Shop/TC Shop Category'), [:], FailureHandling.S
 
 WebUI.click(findTestObject('Object Repository/Shop/Page_Kotakoki/span_Shop'))
 
-WebUI.click(findTestObject('Shop/Page_Products  Kotakoki/i_Filters_thehanger-icons-display-grid'))
+WebUI.verifyElementPresent(findTestObject('Shop/Page_Products  Kotakoki/i_Filters_thehanger-icons-display-grid'), 0)
 
-WebUI.click(findTestObject('Shop/Page_Products  Kotakoki/i_Filters_thehanger-icons-display-list'))
+WebUI.verifyElementPresent(findTestObject('Shop/Page_Products  Kotakoki/i_Filters_thehanger-icons-display-list'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Shop/Page_Products  Kotakoki/div_Add to cart_products_ajax_button disabled'), 
-    0)
+WebUI.callTestCase(findTestCase('Shop/TC Buy Item'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Shop/TC View Cart'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Shop/TC Checkout'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.closeBrowser()
 

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>2d284c9e-f1df-4188-a6ba-d19d974da00a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 45.000'])[1]/following::*[name()='svg'][6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>808e87c2-f260-4f88-a355-d0aaa73899e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>108</value>
+      <webElementGuid>28dfe62a-36ab-4a33-8c06-1dd90ff421a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>64</value>
+      <webElementGuid>aa213e32-d041-4032-967b-9553642fc304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 62 36</value>
+      <webElementGuid>f537b876-689f-4b2d-a8d6-0b7d963333e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>5bcc830f-eb3b-45fb-8b90-afcf352c5da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment-channel-bri&quot;)/div[@class=&quot;w-20 sm:w-full h-10 sm:h-24 mr-4 sm:m-0 flex flex-col justify-center items-center border-thin border-gray-100 rounded-sm&quot;]/svg[1]</value>
+      <webElementGuid>11db98c8-581f-4979-a44e-7570351a3662</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 45.000'])[1]/following::*[name()='svg'][6]</value>
+      <webElementGuid>73c44f30-2700-46c8-900c-cf9aefd1fc05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayar sebelum 13 Juli 2022 10:23am'])[1]/following::*[name()='svg'][6]</value>
+      <webElementGuid>87d8de38-7d62-4b7e-b51a-9f50e45088df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Lain'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>0c4976f0-5a5e-4445-a9f7-9d6cad47964a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='atau Pindai QR Code untuk membayar'])[1]/preceding::*[name()='svg'][9]</value>
+      <webElementGuid>dfdd9a9e-5d4a-48d1-8b07-3da7123ceb45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

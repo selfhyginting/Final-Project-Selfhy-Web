@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Additional information</name>
+   <tag></tag>
+   <elementGuidId>dbb3c83b-eb73-449f-979f-b381144c1ed7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='customer_details']/div[2]/div[2]/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.woocommerce-additional-fields > h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>2fade310-3ec0-4228-bb5f-285c4145e63f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Additional information</value>
+      <webElementGuid>627d5201-2a55-47f4-91e2-dea859b3eaf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer_details&quot;)/div[@class=&quot;col-2&quot;]/div[@class=&quot;woocommerce-additional-fields&quot;]/h3[1]</value>
+      <webElementGuid>0f376451-5d9c-4318-98f8-973a313eedc1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='customer_details']/div[2]/div[2]/h3</value>
+      <webElementGuid>f0a4ea60-aa83-4781-9ed7-fbc540a8206a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::h3[1]</value>
+      <webElementGuid>2f31158e-f5e3-41fb-a711-f1e43b203c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(optional)'])[3]/preceding::h3[1]</value>
+      <webElementGuid>ca2a7a95-cf42-4c79-89d1-0a0ad4154460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Additional information']/parent::*</value>
+      <webElementGuid>a82aeb69-dcbf-4de2-8b35-68378d44f0fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h3</value>
+      <webElementGuid>dc758edb-10ca-4cd4-9550-b021dad61228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Additional information' or . = 'Additional information')]</value>
+      <webElementGuid>9bbc17e1-ca93-4054-9dff-278498f3b30b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

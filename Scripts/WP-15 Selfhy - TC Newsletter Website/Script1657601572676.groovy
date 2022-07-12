@@ -17,30 +17,22 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CucumberKW.runFeatureFile('Include/features/WP-7 Selfhy - TC Login Website.feature')
+CucumberKW.runFeatureFile('Include/features/WP-15 Selfhy - TC Newsletter Website.feature')
 
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
 
-WebUI.click(findTestObject('Object Repository/Login/Page_Kotakoki  Welcome to my Website/span_Login'))
+WebUI.waitForElementPresent(findTestObject('Object Repository/Newsletter/Page_Kotakoki  Welcome to my Website/strong_Newsletter'), 
+    0)
 
-WebUI.waitForElementPresent(findTestObject('Login/Page_Login  Kotakoki/h1_Login'), 0)
+WebUI.setText(findTestObject('Object Repository/Newsletter/Page_Kotakoki  Welcome to my Website/input__wpformsfields1'), 
+    'selfhy.ginting@bfi.co.id')
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Username or E-mail_username-298'), 'selfhyginting')
+WebUI.click(findTestObject('Object Repository/Newsletter/Page_Kotakoki  Welcome to my Website/button_Submit'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Password_user_password-298'), 
-    'RvshYMyF6EzbJOyO9qmYGA==')
-
-WebUI.click(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Keep me signed in_um-submit-btn'))
-
-if (true) {
-    WebUI.verifyElementNotPresent(findTestObject('Object Repository/Login/Page_Login  Kotakoki/p_An error has been encountered. Probably p_c87ac1'), 
-        0)
-} else {
-    WebUI.verifyElementPresent(findTestObject('Object Repository/Login/Page_Login  Kotakoki/p_An error has been encountered. Probably p_c87ac1'), 
-        0)
-}
+WebUI.verifyElementPresent(findTestObject('Object Repository/Newsletter/Page_Kotakoki  Welcome to my Website/div_Thanks for joining our email list'), 
+    0)
 
 WebUI.closeBrowser()
 

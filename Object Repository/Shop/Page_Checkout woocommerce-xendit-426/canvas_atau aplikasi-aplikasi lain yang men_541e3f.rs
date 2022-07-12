@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>canvas_atau aplikasi-aplikasi lain yang men_541e3f</name>
+   <tag></tag>
+   <elementGuidId>3a19cf4d-beea-43c1-99db-e8f55b6cb457</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='link-ewallet-qr-code']/canvas</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>canvas.block.w-0.h-0.transition-all.ease-in-out.duration-300.delay-100.opacity-100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>canvas</value>
+      <webElementGuid>e62c8628-433c-4831-8c3a-f884d32ecf65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block w-0 h-0 transition-all ease-in-out duration-300 delay-100 opacity-100</value>
+      <webElementGuid>d57b1e8b-6fa8-4221-9883-28c4ca606883</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>164</value>
+      <webElementGuid>0cc3fe7f-babe-4c3f-be65-be150185ff04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>164</value>
+      <webElementGuid>15710959-9d88-46c2-a109-045c38aa41b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;link-ewallet-qr-code&quot;)/canvas[@class=&quot;block w-0 h-0 transition-all ease-in-out duration-300 delay-100 opacity-100&quot;]</value>
+      <webElementGuid>956caa16-e9b5-410c-964a-033d1511b357</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='link-ewallet-qr-code']/canvas</value>
+      <webElementGuid>81cd29db-0a3f-47d3-a1c5-42d29b30ec82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//canvas</value>
+      <webElementGuid>0b937671-ed1e-4922-8662-b4274bdcf20f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

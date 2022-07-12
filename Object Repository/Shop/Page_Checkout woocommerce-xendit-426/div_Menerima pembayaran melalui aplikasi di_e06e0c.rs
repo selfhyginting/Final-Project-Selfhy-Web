@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Menerima pembayaran melalui aplikasi di_e06e0c</name>
+   <tag></tag>
+   <elementGuidId>388ec4a3-a05e-4e16-8916-7baf011cb9d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payment-channel-list-ewallet']/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7c213501-0867-4c74-8ef1-e3f0e2647506</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-4 flex items-center</value>
+      <webElementGuid>3961a1e5-1fe8-4f53-9985-dfb30500cf2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment-channel-list-ewallet&quot;)/div[@class=&quot;md:mt-0 mx-6 mt-6 pb-6 flex-col items-center sm:flex hidden&quot;]/div[@class=&quot;mb-4 flex items-center&quot;]</value>
+      <webElementGuid>d6c356d9-361b-4845-9faf-7408e591ff93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment-channel-list-ewallet']/div[2]/div[2]</value>
+      <webElementGuid>eddc06a3-55cc-4c59-9151-bb95000fbf53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menerima pembayaran melalui aplikasi di bawah ini'])[1]/following::div[1]</value>
+      <webElementGuid>b7764274-8390-43f4-9ab8-78195f751e2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='atau Pindai QR Code untuk membayar'])[1]/following::div[1]</value>
+      <webElementGuid>8f54dc41-2649-46d3-99d1-98bbe888e91d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='atau aplikasi-aplikasi lain yang menerima QRIS'])[1]/preceding::div[1]</value>
+      <webElementGuid>358337ca-fcad-41f8-a086-6a625c55aad5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div/div[2]/div[2]</value>
+      <webElementGuid>76ada709-d65a-4e13-9bec-f877bf6133ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

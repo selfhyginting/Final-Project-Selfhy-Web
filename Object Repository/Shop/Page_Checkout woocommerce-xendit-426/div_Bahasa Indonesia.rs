@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bahasa Indonesia</name>
+   <tag></tag>
+   <elementGuidId>5a6e1971-03de-421c-8dbd-4f099cbf4161</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.px-3.py-2.flex.items-center.bg-gray-100.font-sans.text-xs.text-gray-500.rounded-sm.whitespace-no-wrap</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9604c34b-cbd2-4a59-b132-9f8634825bb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-3 py-2 flex items-center bg-gray-100 font-sans text-xs text-gray-500 rounded-sm whitespace-no-wrap</value>
+      <webElementGuid>23923454-6d80-42ce-9725-7d907de8a977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bahasa Indonesia</value>
+      <webElementGuid>0ebd6d24-de8a-46ed-b732-259b9036f7d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[2]/div[@class=&quot;flex min-h-screen&quot;]/div[@class=&quot;pt-8 mx-32 w-3/5&quot;]/div[@class=&quot;flex items-center mb-4&quot;]/div[@class=&quot;nav-wrapper ml-auto&quot;]/div[@class=&quot;sl-nav&quot;]/div[1]/div[@class=&quot;px-3 py-2 flex items-center bg-gray-100 font-sans text-xs text-gray-500 rounded-sm whitespace-no-wrap&quot;]</value>
+      <webElementGuid>ba3a0d00-7ee9-41b7-95da-c81718dff57a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>f5f7411b-103f-4d0a-bae0-c2d5da5c4fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDLC'])[1]/following::div[4]</value>
+      <webElementGuid>7b3bcaba-a96b-4c61-8b00-655fe05fd29f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/preceding::div[2]</value>
+      <webElementGuid>8054357b-7a3b-49b6-b68f-a796ccacd2f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>26316fa9-7910-4bd5-992b-60f4a6382176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bahasa Indonesia' or . = 'Bahasa Indonesia')]</value>
+      <webElementGuid>6ad7cc82-7778-4506-bde7-2da16d7c05bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

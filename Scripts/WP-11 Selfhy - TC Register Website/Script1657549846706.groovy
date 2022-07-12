@@ -46,8 +46,13 @@ WebUI.setText(findTestObject('Object Repository/Register/Page_Register Now  Kota
 
 WebUI.click(findTestObject('Object Repository/Register/Page_Register Now  Kotakoki/input_Only fill in if you are not human_um-_fc91b5'))
 
-WebUI.verifyElementNotPresent(findTestObject('Object Repository/Register/Page_Register Now  Kotakoki/p_An error has been encountered. Probably p_c87ac1'), 
-    0)
+if (true) {
+    WebUI.verifyElementNotPresent(findTestObject('Object Repository/Login/Page_Login  Kotakoki/p_An error has been encountered. Probably p_c87ac1'), 
+        0)
+} else {
+    WebUI.verifyElementPresent(findTestObject('Object Repository/Login/Page_Login  Kotakoki/p_An error has been encountered. Probably p_c87ac1'), 
+        0)
+}
 
 WebUI.closeBrowser()
 

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Download</name>
+   <tag></tag>
+   <elementGuidId>b7230db4-eaf4-4880-ae1e-2272bc042f17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payment-channel-list-ewallet']/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.min-h-64.min-w-64.flex.justify-center.items-center.p-2.rounded-lg.shadow-xl.border.border-gray-100.bg-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>db5c7a71-3e22-455f-a5d1-9ea12ac06693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-h-64 min-w-64 flex justify-center items-center p-2 rounded-lg shadow-xl border border-gray-100 bg-white</value>
+      <webElementGuid>827e2dd6-e186-4236-89be-3677cb11e4ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Download</value>
+      <webElementGuid>52d2d441-0106-4f6f-b4f1-682942e0cbbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment-channel-list-ewallet&quot;)/div[@class=&quot;md:mt-0 mx-6 mt-6 pb-6 flex-col items-center sm:flex hidden&quot;]/div[@class=&quot;min-h-64 min-w-64 flex justify-center items-center p-2 rounded-lg shadow-xl border border-gray-100 bg-white&quot;]</value>
+      <webElementGuid>a1aae635-ad7f-4174-ad2e-de9d0727c1aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment-channel-list-ewallet']/div[2]/div[3]</value>
+      <webElementGuid>3edb653c-88fc-425d-a17e-f8af55aa0fc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='atau aplikasi-aplikasi lain yang menerima QRIS'])[1]/following::div[1]</value>
+      <webElementGuid>015085f5-7c68-4905-ae6b-0f007ed88dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menerima pembayaran melalui aplikasi di bawah ini'])[1]/following::div[2]</value>
+      <webElementGuid>6cdb1557-ea26-4cb7-a02d-d8a6ae9e4bf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='woocommerce-xendit-426'])[1]/preceding::div[4]</value>
+      <webElementGuid>c13a4acc-b454-4554-88fd-b09788fa520f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[3]</value>
+      <webElementGuid>6e70b842-5a88-4476-a086-ad9457786b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Download' or . = 'Download')]</value>
+      <webElementGuid>aba7c306-ac3c-41da-914d-50b5c3f8d965</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,30 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CucumberKW.runFeatureFile('Include/features/WP-7 Selfhy - TC Login Website.feature')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Shop/Page_Cart  Kotakoki/h1_Cart'), 0)
 
-WebUI.openBrowser('')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Shop/Page_Cart  Kotakoki/h2_Cart totals'), 0)
 
-WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Shop/Page_Cart  Kotakoki/th_Subtotal'), 0)
 
-WebUI.click(findTestObject('Object Repository/Login/Page_Kotakoki  Welcome to my Website/span_Login'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Shop/Page_Cart  Kotakoki/td_Rp45.000'), 0)
 
-WebUI.waitForElementPresent(findTestObject('Login/Page_Login  Kotakoki/h1_Login'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Shop/Page_Cart  Kotakoki/th_Total'), 0)
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Username or E-mail_username-298'), 'selfhyginting')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Shop/Page_Cart  Kotakoki/td_Rp45.000_1'), 0)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Password_user_password-298'), 
-    'RvshYMyF6EzbJOyO9qmYGA==')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Shop/Page_Cart  Kotakoki/input_Coupon_coupon_code'), 0)
 
-WebUI.click(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Keep me signed in_um-submit-btn'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Shop/Page_Cart  Kotakoki/a_Continue shopping'), 0)
 
-if (true) {
-    WebUI.verifyElementNotPresent(findTestObject('Object Repository/Login/Page_Login  Kotakoki/p_An error has been encountered. Probably p_c87ac1'), 
-        0)
-} else {
-    WebUI.verifyElementPresent(findTestObject('Object Repository/Login/Page_Login  Kotakoki/p_An error has been encountered. Probably p_c87ac1'), 
-        0)
-}
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Shop/Page_Cart  Kotakoki/a_Proceed to checkout'))
 
